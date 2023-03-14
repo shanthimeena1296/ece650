@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -std=c++11 -Wall  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/prime_factor.dir/prime_factor.cpp.o -o prime_factor 

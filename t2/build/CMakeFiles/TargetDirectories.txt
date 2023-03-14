@@ -1,0 +1,3 @@
+/Users/shanthimeenaarumugam/fixing/smarumug/t2/build/CMakeFiles/prime_factor.dir
+/Users/shanthimeenaarumugam/fixing/smarumug/t2/build/CMakeFiles/edit_cache.dir
+/Users/shanthimeenaarumugam/fixing/smarumug/t2/build/CMakeFiles/rebuild_cache.dir
