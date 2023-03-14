@@ -1,0 +1,4 @@
+/Users/shanthimeenaarumugam/fixing/smarumug/a2/build/CMakeFiles/ece650-a2.dir
+/Users/shanthimeenaarumugam/fixing/smarumug/a2/build/CMakeFiles/tests.dir
+/Users/shanthimeenaarumugam/fixing/smarumug/a2/build/CMakeFiles/edit_cache.dir
+/Users/shanthimeenaarumugam/fixing/smarumug/a2/build/CMakeFiles/rebuild_cache.dir
